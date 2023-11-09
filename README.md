@@ -1,0 +1,1 @@
+Create a personalized and easy-to-use LinkTree alternative with this simple static website project. Quickly set up a central hub for all your online profiles and make it uniquely yours.
