@@ -13,7 +13,7 @@ This is my personal Linktree, a simple static webpage containing links to my soc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Linktree/Linktree.git
+   git clone https://github.com/iqlipx/Linktree.git
 
 # Deployment
 
